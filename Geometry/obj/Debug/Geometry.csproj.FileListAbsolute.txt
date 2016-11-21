@@ -1,0 +1,12 @@
+\\redirclu2\redir$\luis.mendez\documents\visual studio 2015\Projects\Geometry\Geometry\bin\Debug\Geometry.exe.config
+\\redirclu2\redir$\luis.mendez\documents\visual studio 2015\Projects\Geometry\Geometry\bin\Debug\Geometry.exe
+\\redirclu2\redir$\luis.mendez\documents\visual studio 2015\Projects\Geometry\Geometry\bin\Debug\Geometry.pdb
+\\redirclu2\redir$\luis.mendez\documents\visual studio 2015\Projects\Geometry\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+\\redirclu2\redir$\luis.mendez\documents\visual studio 2015\Projects\Geometry\Geometry\obj\Debug\Geometry.exe
+\\redirclu2\redir$\luis.mendez\documents\visual studio 2015\Projects\Geometry\Geometry\obj\Debug\Geometry.pdb
+C:\Users\Luis\OneDrive\Universidad\Programación C#\Proyectos\Geometry\Geometry\bin\Debug\Geometry.exe.config
+C:\Users\Luis\OneDrive\Universidad\Programación C#\Proyectos\Geometry\Geometry\obj\Debug\Geometry.exe
+C:\Users\Luis\OneDrive\Universidad\Programación C#\Proyectos\Geometry\Geometry\obj\Debug\Geometry.pdb
+E:\OneDrive\Universidad\Programación C#\Proyectos\Geometry\Geometry\bin\Debug\Geometry.exe.config
+E:\OneDrive\Universidad\Programación C#\Proyectos\Geometry\Geometry\obj\Debug\Geometry.exe
+E:\OneDrive\Universidad\Programación C#\Proyectos\Geometry\Geometry\obj\Debug\Geometry.pdb
