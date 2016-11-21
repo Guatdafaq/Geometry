@@ -5,6 +5,6 @@ It was done for an university project, so it has some differents ways to do the 
 
 The structure of this library is prepared to insert new geometric classes, like a Triangle, an Hexagon or whatever geometric figure you can think of. The only thing you have to do is to follow the same structure of the other figures code. I'm open to suggestions of any type, in order to improve my code! :)
 
-This little project has a Program.cs in wich you can find a Main(), with a console program with a menu, to prove the classes and operations that are implemented in the library.
+This little project has a Program.cs in wich you can find a Main(), with a console program and a menu, to prove the classes and operations that are implemented in the library.
 
 I'd thank you if you refer me or this repository when you use my code for any reason! :)
